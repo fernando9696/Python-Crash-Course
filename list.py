@@ -1,4 +1,9 @@
-integers = {4, 5, 3, 2}
+guestlist = ['pheobe', 'monica', 'rachel', 'chandler', 'joey', 'ross']
 
-print(integers)
+print(guestlist)
+
+for guest in guestlist:
+	print(guest.title())
+
+
 
