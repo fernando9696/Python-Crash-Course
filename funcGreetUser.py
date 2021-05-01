@@ -2,4 +2,5 @@ def greet_user(user_name):
     print(f"Hello {user_name}")
 
 
-greet_user('Fernando')
+user_name = input()
+greet_user(user_name)
