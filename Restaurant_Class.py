@@ -13,7 +13,10 @@ class Restaurant:
         print(f"{self.restaurant_name} is open")
 
 restaurant = Restaurant('Salerno\'s', 'Italian')
+restaurant2 = Restaurant('La Abuela', 'Mexican')
+restaurant3 = Restaurant('The Panda', 'Chinese')
 
 restaurant.describe_restaurant()
+restaurant2.describe_restaurant()
+restaurant3.describe_restaurant()
 
-restaurant.open_restaurant()
