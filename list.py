@@ -1,9 +1,4 @@
-guestlist = ['pheobe', 'monica', 'rachel', 'chandler', 'joey', 'ross']
+myDictionary = {'a' : 1, 'a' : 2}
 
-print(guestlist)
-
-for guest in guestlist:
-	print(guest.title())
-
-
+print(myDictionary)
 
