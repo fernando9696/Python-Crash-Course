@@ -1,4 +1,4 @@
-# Class example using firearms
+#  Class example using firearms
 # Firearms have brand, caliber, action, longgun/handgun, color, capacity, features
 
 class Gun:
